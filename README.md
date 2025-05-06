@@ -1,6 +1,6 @@
-## 🎥 دموی پروژه
+## 🎬 دموی پروژه
 
-![Demo](preview.gif)
+![Demo](https://github.com/ArefSaremi/PetLand/raw/main/preview.gif)
 
 # PetLand - Flutter Pet Shop App
 
