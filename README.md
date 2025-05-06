@@ -1,7 +1,7 @@
 ## 🎬 Project Demo
 
 <p align="center">
-  <img src="https://github.com/ArefSaremi/PetLand/raw/main/preview.gif" style="max-width: 300px; width: 100%; height: auto;"/>
+  <img src="https://github.com/ArefSaremi/PetLand/raw/main/preview.gif" style="max-width: 100px; width: 100%; height: auto;"/>
 </p>
 
 
