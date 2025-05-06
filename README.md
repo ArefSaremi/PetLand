@@ -1,3 +1,5 @@
+[Watch the Demo](https://github.com/username/repository/blob/main/path/to/video.mp4)
+
 # PetLand - Flutter Pet Shop App
 
 **PetLand** is a modern Flutter application designed for pet shop management, allowing users to browse products, manage their cart, and make purchases easily. The app follows **Clean Architecture** and leverages the power of **GetX** and **GetStorage** for state management and local storage, respectively.
